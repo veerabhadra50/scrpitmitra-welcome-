@@ -4,7 +4,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <canvas id="fireworks"></canvas>
   <div class="content" id="content" style="opacity:0">
     <img src="/logo.jpeg" alt="ScriptMitra Logo" class="logo" />
-    <h1 class="title"><span class="white">ScriptMitra</span> <span class="blue">Technology</span></h1>
+    <h1 class="title"><span class="white">ScriptMitra</span> <span class="blue">Technologies</span></h1>
     <p class="subtitle">Coming Soon</p>
     <div class="dots"><span></span><span></span><span></span></div>
   </div>
